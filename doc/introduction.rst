@@ -12,7 +12,7 @@ From that point it is possible to calculate the offdesign behaviour of your plan
 For now, the package inlcudes basic components, such as turbines, pumps, compressors, heat exchangers, pipes, mixers and splitters as well as some advanced components (derivatives of heat exchangers, drum).
 
 Everybody is welcome to use and/or develop TESPy. Contribution is already possible on a low level by simply fixing typos in TESPy's documentation or rephrasing sections which are unclear.
-If you want to support us that way please fork the TESPy repository to your own github account and make changes as described in the github guidelines: https://guides.github.com/activities/hello-world/
+If you want to support us that way please fork the TESPy repository to your own github account and make changes as described in the `github guidelines <https://guides.github.com/activities/hello-world/>`_.
 
 .. contents::
     :depth: 1
